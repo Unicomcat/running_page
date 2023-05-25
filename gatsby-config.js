@@ -4,9 +4,9 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site and blog',
+    siteUrl: 'https://run.unicomcat.space',
+    logo: 'https://memos.unicomcat.space/o/r/15/2b64b615-79b1-44e9-90ab-9139a04c2240/aca2af33-dcf8-4601-917f-cf1fbfddf476.jpg',
+    description: 'My Running Page',
     navLinks: [
       {
         name: 'About',
