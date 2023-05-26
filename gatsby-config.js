@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 // eslint-disable-next-line no-undef
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/',
+  pathPrefix: '/',
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://run.unicomcat.space',
